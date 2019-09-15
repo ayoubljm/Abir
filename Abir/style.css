@@ -1,0 +1,175 @@
+#wrapper{
+	width: 960px;
+	margin-right: auto;
+	margin-left: auto;
+	font-size: 16px;
+    font-family: arial, sans-serif;
+}
+
+body{
+	background-image: url("Bilder/herzchen.png");
+	background-size: 100%;
+}
+
+header{
+	text-align: center;
+	background: #FF90DA;
+	border: 1px solid #DEDCD9;
+	border-radius: 5px;
+}
+
+nav{
+	text-align: center;
+}
+
+nav ul{
+	list-style-type: none;
+}
+
+nav li{
+	display: inline;
+	margin-right: 40px;
+}
+
+a {
+	color: #000000;
+	text-decoration: none;
+	font-size: 18px;
+    font-style: italic;
+
+}
+
+/*p{
+	text-align: justify;
+}*/
+
+section{
+	width: 603px;
+	float: left;
+	background: #DEDEDE;
+	padding: 15px;
+	margin-top: 15px;
+	margin-right: 15px;
+	margin-bottom: 15px;
+	border: 1px solid #DEDCD9;
+	border-radius: 5px;
+}
+.article{
+	height: 120px;
+	margin-top: 15px;
+	margin-bottom: 49px;
+}
+
+.article img{
+	float: left;
+	padding: 5px;
+	margin-right: 10px;
+	border: 1px solid #DEDCD9;
+}
+
+.article a{
+	font-size:  18px;
+}
+
+aside{
+	width: 258px;
+	float: right;
+	background: #BF073C;
+	padding: 25px;
+	margin-top: 15px;
+	border: 1px solid #DEDCD9;
+	border-radius: 5px;
+	margin-bottom: 15px;
+}
+
+.sidebar img{
+	padding: 5px;
+	margin-top: 15px;
+	border: 1px solid #DEDCD9;
+}
+
+.sidebar a{
+	font-size: 18px;
+	padding: 5px;
+	background: white;
+}
+
+.sidebar p{
+	padding: 5px;
+    background: white;
+}
+
+footer{
+	border: 1px solid #DEDCD9;
+	border-radius: 5px;
+	clear: both;
+	background: #FF90DA;
+}
+
+footer ul{
+	float: left;
+	list-style: none;
+	padding: 0px;
+	margin: 20px;
+}
+
+footer li{
+	margin-right: 15px;
+	display: inline;
+}
+
+footer p{
+	text-align: right;
+	margin-right: 20px;
+	color: #777
+}
+
+#aboutme{
+    margin: 15px;
+    float: left;	
+}
+
+#aboutme h1{
+	color: #777;
+	padding: 10px;
+}
+
+#kontact{
+    margin: 15px;		
+}
+
+#kontact h1{
+	color: #777;
+	padding: 10px;
+}
+
+.a{
+	background: #DEDEDE;
+	width: 800px;
+}
+
+.a a {
+	font-size: 16px;
+	padding: 5px;
+	color: red;
+	font-style: italic;
+}
+
+.a img{
+	float: right;
+	padding: 5px;
+	margin-right: 10px;
+	margin-top: 10px;
+}
+
+.b{
+    background: none;
+	border: none;
+}
+
+.b img{
+	padding: 5px;
+	margin-right: 10px;
+	border: 1px solid #DEDCD9;
+}
+
